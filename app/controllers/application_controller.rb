@@ -39,7 +39,7 @@ class ApplicationController < ActionController::Base
   private
 
   def https_enabled?
-    Rails.env.production?
+    false
   end
 
   def authorized_fetch_mode?
