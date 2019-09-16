@@ -8,4 +8,4 @@ I will do my best but I'm familiar with HTML and not ruby so [help](https://gith
 
 progress can be found [here](https://github.com/MasTorDonOnion/mastordon/commits?author=MasTorDonOnion)
 
-![mastordon]("https://assets.privacytools.io/ptio-mastodon/media_attachments/files/001/310/737/original/3e224a260f533549.png")
+![mastordon](https://assets.privacytools.io/ptio-mastodon/media_attachments/files/001/310/737/original/3e224a260f533549.png)
